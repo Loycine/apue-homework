@@ -68,7 +68,7 @@ int main(int argc, char* argv[])
             break;
         case '2': PrintList(ListHead);
             break;
-        case '3': currentNode = InsertList(currentNode);
+        case '3': currentNode = InsertList(ListHead);
             break;
         case '4':
             return 0;

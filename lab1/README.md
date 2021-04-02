@@ -1,8 +1,7 @@
 # Compile & Run
 ```bash
 
-gcc main.c -o main
-./main
+gcc main.c -o main && ./main
 
 ```
 
@@ -21,4 +20,4 @@ luoyucheng 22
 ```
 
 # Demo Screenshot
-![avatar](./imgs/1.png)
+![avatar](./imgs/linklist.png)
